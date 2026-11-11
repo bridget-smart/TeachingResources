@@ -1,0 +1,6 @@
+# Keep this teaching folder limited to Python scripts in git.
+*
+!.gitignore
+!*.py
+!README.md
+!requirements.txt
